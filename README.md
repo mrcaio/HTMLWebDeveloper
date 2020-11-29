@@ -2,7 +2,7 @@
 ## Bootcamp Digital Innovation One 
 ##### Aprenda a programar páginas de internet e desenvolver websites utilizando HTML, CSS e JavaScript para iniciar sua trajetória profissional em desenvolvimento web front-end.
 
-Repositório criado para desenvolver, aprender e demostrar a evolução dos conhecimentos dados nesse curso, dentro do Bootcamp desenvolvido pela Digital Innovation One.
+Repositório criado para desenvolver, aprender e demostrar a evolução dos conhecimentos dados nesse curso, dentro do Bootcamp desenvolvido pela Digital Innovation One. Induito de aprender sobre desenvolvimento web.
 
 
 
