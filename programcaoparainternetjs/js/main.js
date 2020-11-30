@@ -1,5 +1,36 @@
 
-var frutas = [{nome:"maça", cor:"vermelha"}, {nome:"uva", cor:"roxa"}]
+var d = new Date();
+alert(d.getDay());
+alert(d.getHours());
+alert(d.getMinutes());
+
+/*
+var count ;
+for(count = 0; count <= 5, count ++) {
+    alert(count);
+}
+
+
+/*var count = 5;
+while (count < 5) {
+    console.log(count);
+    //count = count + 1;
+    count=++;
+}
+
+
+/*
+var idade = prompt ("Qual sua Idade?");
+
+if (idade >= 18) {
+    alert("Maior de Idade");
+}
+else {
+    alert("Menor de Idade");
+}
+
+
+/*var frutas = [{nome:"maça", cor:"vermelha"}, {nome:"uva", cor:"roxa"}]
 console.log(frutas);
 alert(frutas[1].nome);
 
