@@ -1,5 +1,36 @@
 
-function soma(n1, n2) {
+function clicou (){
+    document.getElementById("agradecimento") .innerHTML = "<b>Obrigado por clicar</b>";
+    //console.log(document.getElementById("agradecimento"));
+    //alert("Obrigado por clicar");
+}
+
+function redirecionar(){
+    window.open("facebook.com");
+    //window.location.href = "facebook.com";
+}
+
+function trocar(elemento){
+    //document.getElementById("mousemove").innerHTML = "Obrigado Por passar o mouse";
+    elemento.innerHTML = "Obrigado Por passar o mouse";
+    //alert("trocar texto");
+}
+
+function voltar(elemento){
+    //document.getElementById("mousemove").innerHTML = "Passe o mouse";
+    elemento.innerHTML = "Passe o mouse";
+}
+
+function load(){
+    alert("Pagina carregada");
+}
+
+function funcaochange(elemento){
+    console.log(elemento.value)
+}
+
+
+/*function soma(n1, n2) {
     return n1+n2;
 }
 
